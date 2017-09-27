@@ -1,15 +1,17 @@
-#Git Assignment!
+# Git Assignment!
 
-* Create a Github account
-* Request to join Coding Codes Organization 
+1. Create a Github account
+2. Request to join Coding Codes Organization 
     * https://github.com/CodingCougs
-* Clone the CodingCougs/git-assignment
+3. Clone the CodingCougs/git-assignment
     * https://github.com/CodingCougs/git-assignment
-* Create a branch with your name
-* Add your name and WSU email to 'members.txt'
-* Stage your branch
-* commit your branch
-* Push your branch to the Organization
+4. Create a branch with your name
+5. Add your name and WSU email to 'members.txt'
+6. Stage 'members.txt'
+7. Commit 'members.txt'
+8. Push your branch to the Organization
+    * git push origin 'your branch name'
+
 
 
 
